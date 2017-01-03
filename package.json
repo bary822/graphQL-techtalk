@@ -1,0 +1,22 @@
+{
+  "name": "graphql-techtalk",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bary822/graphQL-techtalk.git"
+  },
+  "author": "hiroto.fukui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bary822/graphQL-techtalk/issues"
+  },
+  "homepage": "https://github.com/bary822/graphQL-techtalk#readme",
+  "dependencies": {
+    "graphql": "^0.8.2"
+  }
+}
